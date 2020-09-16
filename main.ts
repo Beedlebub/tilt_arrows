@@ -19,4 +19,4 @@ input.onGesture(Gesture.LogoDown, function () {
         . . . . .
         `)
 })
-basic.showIcon(IconNames.Target)
+basic.showIcon(IconNames.SmallDiamond)
