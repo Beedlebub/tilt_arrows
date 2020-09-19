@@ -22,4 +22,4 @@ def on_gesture_logo_down():
         """)
 input.on_gesture(Gesture.LOGO_DOWN, on_gesture_logo_down)
 
-basic.show_icon(IconNames.TARGET)
+basic.show_icon(IconNames.SMALL_DIAMOND)
